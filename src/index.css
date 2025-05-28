@@ -1,0 +1,12 @@
+@import  "tailwindcss";
+
+
+::selection{
+    color:rgb(233, 174, 86);
+}
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
