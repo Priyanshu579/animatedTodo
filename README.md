@@ -24,4 +24,4 @@ Welcome to **Animated ToDo**, a unique and fun task management web app built usi
 
 ## 📸 Screenshot
 
-![App Screenshot](./animatedTodo/animatedTodo.jpg)
+![App Screenshot](public/animatedTodo.JPG)
