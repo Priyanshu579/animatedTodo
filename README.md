@@ -1,12 +1,27 @@
-# React + Vite
+# 🐾 Animated ToDo - setYourTasks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Animated ToDo**, a unique and fun task management web app built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**. This project gives your boring to-do lists a playful and engaging twist by making the task cards fully draggable with a smooth animation.
 
-Currently, two official plugins are available:
+## 🔥 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📝 Add your daily tasks in animated cards
+- 🧲 Drag the cards anywhere on the screen
+- 🧱 Collision detection - cards bounce off the screen edges
+- ✏️ Edit or ❌ delete any task anytime
+- 😎 Cool cat animation in the center for a unique vibe
+- ⚡️ Super smooth animations using **Framer Motion**
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **ReactJS** – Frontend Framework
+- **Tailwind CSS** – Styling
+- **Framer Motion** – Animations and draggable behavior
+- **Vite** – Fast build tool for development and production
+
+## 🚀 Live Demo
+
+🔗 [Check out the live site here](https://priyanshu579.github.io/animatedTodo)
+
+## 📸 Screenshot
+
+![App Screenshot](./animatedTodo/animatedTodo.jpg)
