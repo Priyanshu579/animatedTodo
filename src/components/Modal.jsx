@@ -11,11 +11,11 @@ const Modal = ({
   updateTask,
 }) => {
   return (
-    <div className="modal absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] bg-zinc-900  h-[30%] w-[40%] sm:w-[30%] md:w-[20%] rounded-4xl">
+    <div className="modal absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] bg-zinc-900  h-[40%] w-[80%] sm:w-[50%] md:w-[50%] rounded-4xl">
       <div className="absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%] ">
         <input
           required
-          className="text-center focus:outline-none bg-zinc-900 rounded text-white"
+          className="text-center focus:outline-none bg-zinc-900 rounded text-white w-2xs"
           type="text"
           placeholder="Set your task.."
           onChange={(e) => setInputValue(e.target.value)}
