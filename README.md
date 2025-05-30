@@ -25,3 +25,11 @@ Welcome to **Animated ToDo**, a unique and fun task management web app built usi
 ## 📸 Screenshot
 
 ![App Screenshot](public/animatedTodo.JPG)
+
+
+## 🙋‍♂️ Author
+
+**Priyanshu Sharma**  
+Frontend Developer  
+📧 Connect with me: [LinkedIn](https://www.linkedin.com/in/priyanshu-sharma-123408251) | [GitHub](https://github.com/Priyanshu579)
+
